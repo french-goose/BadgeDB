@@ -1,0 +1,14 @@
+{
+    "main": "index.js",
+    "version": "1.0.0",
+    "name": "BadgeDB",
+    "description": "Its USRBG but badges™️",
+    "tags": [
+        "ui",
+        "badge",
+        "custom"
+    ],
+    "authors": [
+        "811770910624579584"
+    ]
+}
